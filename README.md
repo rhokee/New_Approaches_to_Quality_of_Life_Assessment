@@ -5,3 +5,9 @@ Researchers, regulatory bodies, and third-party payers need a common metric to c
 Quality of Life (QOL) measures are a promising candidate for such a metric, but current QOL measures and tools have many flaws. First of all, current QOL tools are poorly suited to MH	symptoms, reducing sensitivity and accuracy. Second, existing QOL measures lack comparability, often being too disorder-specific to work across MH and PH conditions. Finally, current methods to convert existing QOL	measures into more generalized metrics introduce bias, weakening the reliability of QOL as a universal metric.
 
 Traditionally, researchers have aimed to create single total QOL scores to reflect all domains in QOL. However, this project challenges the notion that we should aim for a single total QOL score, testing whether QOL is better measured as separate domains rather than a single combined score.
+
+# Explanation of Documents
+
+The file "FinalResearchDayPosterOKeefe.pptx" contains a more in-depth overview of this project and its findings. It is also the poster I presented to department heads, researchers, and others at McLean Research Day.
+
+The file "QOL_Analyses.ipynb" contains the Python and SQL code I wrote to carry out the various tasks related to this project.
